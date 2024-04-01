@@ -46,6 +46,4 @@ The dataset `position_salaries.csv` contains information about different job pos
 ## Author
 Veera Prathap
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
